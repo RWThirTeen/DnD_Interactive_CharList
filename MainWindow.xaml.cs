@@ -17,6 +17,9 @@ namespace DnD_Interactive_CharList
 {
     public partial class MainWindow : Window
     {
+
+
+
         public MainWindow()
         {
             InitializeComponent();
